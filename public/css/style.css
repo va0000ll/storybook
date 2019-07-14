@@ -1,0 +1,24 @@
+body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+main {
+  flex: 1 0 auto;
+  margin-bottom: 20px;
+}
+
+.navbar-wrapper .fa-bars {
+  font-size: 25px;
+}
+
+.foopage-footerter {}
+
+.dash-status {
+  text-transform: capitalize;
+}
+
+#delete-story {
+  display: inline-block;
+}
